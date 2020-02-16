@@ -1,8 +1,8 @@
-package com.eis.smslibrary.random;
+package com.eis.smslibrary;
 
 import androidx.annotation.NonNull;
 
-import com.eis.smslibrary.SMSPeer;
+import com.eis.communication.RandomPeerGenerator;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 import com.google.i18n.phonenumbers.Phonenumber;
 

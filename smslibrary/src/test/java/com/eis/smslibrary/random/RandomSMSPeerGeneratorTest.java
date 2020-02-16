@@ -1,5 +1,6 @@
 package com.eis.smslibrary.random;
 
+import com.eis.smslibrary.RandomSMSPeerGenerator;
 import com.eis.smslibrary.SMSPeer;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 
